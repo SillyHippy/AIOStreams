@@ -8,7 +8,7 @@
   - [How does it work?](#how-does-it-work)
 - [Usage](#usage)
   - [Public Instace](#public-instance)
-  - [Cloudflare Workers](#cloudflare-workers)
+  - [Cloudflare Workers](#cloudflare-workers) 
   - [ElfHosted](#elfhosted-paid)
   - [Heroku](#heroku-paid)
   - [VPS](#vps)
